@@ -1,0 +1,25 @@
+{
+  "name": "@my_new_organization/my-test-package",
+  "version": "1.0.0",
+  "description": "My test package.",
+  "keywords": [
+    "my",
+    "test",
+    "package"
+  ],
+  "homepage": "https://github.com/chame1e0n/my-test-package#readme",
+  "bugs": {
+    "url": "https://github.com/chame1e0n/my-test-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chame1e0n/my-test-package.git"
+  },
+  "license": "MIT",
+  "author": "chameleon",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

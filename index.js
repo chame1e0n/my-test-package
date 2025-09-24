@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log('Trails!');
+    console.log('Music is playing.');
 };

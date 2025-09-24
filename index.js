@@ -1,3 +1,3 @@
 exports.printMsg = function(music) {
-    console.log(music + ' is playing.');
+    console.log(music + ' is playing now.');
 };

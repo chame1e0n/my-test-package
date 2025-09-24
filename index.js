@@ -1,3 +1,5 @@
-exports.printMsg = function() {
-    console.log('Music is playing.');
+exports.printMsg = function(music) {
+    if (!music) music = '"Namir"';
+
+    console.log(music + ' is playing.');
 };
